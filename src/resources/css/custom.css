@@ -1,0 +1,29 @@
+header, footer {
+    background-color: #000;
+}
+
+.brand-section{
+  margin-top: 20px;
+}
+
+.btn-search {
+    font-size: 26.5px;
+    margin-top: -8px;
+}
+
+.search {
+  float:right;
+}
+
+#search-bar {
+  margin-top: -2px;
+  width: 500px;
+  height: 60px;
+  font-size: 2em;
+  padding: 10px 10px;
+}
+
+
+footer {
+  color: white;
+}
