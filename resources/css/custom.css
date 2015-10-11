@@ -23,6 +23,15 @@ header, footer {
   padding: 10px 10px;
 }
 
+.desc {
+  background-color: #000;
+}
+
+.data {
+  text-align: center;
+  font-size: 1.5em;
+  color: white;
+}
 
 footer {
   color: white;
